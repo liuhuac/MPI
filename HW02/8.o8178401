@@ -1,0 +1,16 @@
+Process [0] has myNum = 86, R_rank = 1, L_rank = 7
+Process [5] has myNum = 57, R_rank = 6, L_rank = 4
+Process [6] has myNum = 4, R_rank = 7, L_rank = 5
+Process [3] has myNum = 80, R_rank = 4, L_rank = 2
+Process [2] has myNum = 58, R_rank = 3, L_rank = 1
+Process [4] has myNum = 2, R_rank = 5, L_rank = 3
+Process [1] has myNum = 16, R_rank = 2, L_rank = 0
+Process [0]: Recv'd from right = 16, Recv'd from left = 78
+Process [1]: Recv'd from right = 58, Recv'd from left = 86
+Process [2]: Recv'd from right = 80, Recv'd from left = 16
+Process [4]: Recv'd from right = 57, Recv'd from left = 80
+Process [3]: Recv'd from right = 2, Recv'd from left = 58
+Process [6]: Recv'd from right = 78, Recv'd from left = 57
+Process [7] has myNum = 78, R_rank = 0, L_rank = 6
+Process [7]: Recv'd from right = 86, Recv'd from left = 4
+Process [5]: Recv'd from right = 4, Recv'd from left = 2

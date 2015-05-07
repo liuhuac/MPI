@@ -1,0 +1,2 @@
+Process [0] has myNum = 31, R_rank = 0, L_rank = 0
+Process [0]: Recv'd from right = 31, Recv'd from left = 31

@@ -1,0 +1,20 @@
+mm-parallel execution time:
+	n = 7200 nodes
+	p = 64 cpus
+	ptime = 140.525367 (sec)
+	ftime = 128.294055 (sec)
+mm-parallel execution time:
+	n = 8000 nodes
+	p = 64 cpus
+	ptime = 186.781843 (sec)
+	ftime = 172.075494 (sec)
+mm-parallel execution time:
+	n = 8800 nodes
+	p = 64 cpus
+	ptime = 245.425974 (sec)
+	ftime = 227.626436 (sec)
+mm-parallel execution time:
+	n = 9600 nodes
+	p = 64 cpus
+	ptime = 281.132289 (sec)
+	ftime = 259.941444 (sec)
